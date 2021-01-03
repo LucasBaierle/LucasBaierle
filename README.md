@@ -11,6 +11,8 @@
 
 <p align="center">🎓 I’m currently learning JavaScript</p>
 
+<p align="center">✨My goal for 2021: <a>encurtador.com.br/gqKP5</a> </p>
+
 <br>
 <hr>
 <br>
