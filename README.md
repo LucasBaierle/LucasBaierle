@@ -18,5 +18,4 @@
 <hr>
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBaierle)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBaierle&layout=compact)](https://github.com/LucasBaierle/github-readme-stats)
