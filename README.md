@@ -16,6 +16,13 @@
 
 <br>
 <hr>
-<br>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBaierle&layout=compact)](https://github.com/LucasBaierle/github-readme-stats)
+
+</div>
+<div align="center">
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasBaierle&show_icons=true)
+
+</div>
