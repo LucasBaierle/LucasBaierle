@@ -12,7 +12,7 @@
 <p align="center">🎓 I’m currently learning JavaScript</p>
 
 
-<p align="center">✨My goal for 2021:<a href="https://www.notion.so/faturamentow52/Front-End-developer-03df83683aa6486fa40898d90f152aa2" target="blank">here</a> </p>
+<p align="center">✨My goal for 2021: <a href="https://www.notion.so/faturamentow52/Front-End-developer-03df83683aa6486fa40898d90f152aa2" target="blank">here</a> </p>
 
 <br>
 <hr>
