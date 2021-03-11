@@ -3,16 +3,12 @@
 <h2 align="center">Hi There, I'm Lucas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15"></img></h2>
 
 <samp>
-<p align="center">🚀 I'm an aspiring junior web developer</p>
-
+<p align="center">🚀 I'm an aspiring web developer</p>
 
 <br>
-<p align="center">👨‍💻  I'm 19 years old, a self-taught front-end developer from brazil</p>
+<p align="center">👨‍💻  i'm 19 years old, self-taught, reside in brazil</p>
 
-<p align="center">🎓 I’m currently learning JavaScript</p>
-
-
-<p align="center">✨My goal for 2021: <a href="https://www.notion.so/faturamentow52/Front-End-developer-03df83683aa6486fa40898d90f152aa2" target="blank">here</a> </p>
+<p align="center">✨My goals for 2021: <a href="https://www.notion.so/faturamentow52/Front-End-developer-03df83683aa6486fa40898d90f152aa2" target="blank">here</a> </p>
 
 <br>
 <hr>
